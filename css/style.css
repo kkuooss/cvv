@@ -1,0 +1,79 @@
+
+body{
+    margin: 0;
+    font-family: serif;
+    text-align: center;
+    font-family: "Merriweather", serif;
+    font-size: 100%;
+h1{ 
+    color:#66bfbf;
+    font-size: 5.625rem;
+    margin:0px auto 0px auto;
+    font-family: "Sacramento", cursive;
+    
+}
+h2{
+    color:#66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2rem;
+    font-weight: normal;
+   
+
+}
+h3{
+    coclor:#11999e;
+    font-family: "Montserrat", sans-serif;
+
+}
+
+
+
+   
+}
+.top-container{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top:50px;
+}
+
+.top-cloud{
+
+    position:absolute;
+    right: 250px;
+    top:50px;
+   
+}
+.bottom-cloud{
+    position:absolute;
+    left:200px;
+    bottom: 50%;
+}
+
+.skill-row{
+    width:50%;
+    margin: 80px auto 80px auto ;
+    text-align: left;
+    line-height:2; 
+}
+.code-img{
+    width:25%;/*根据其父项的宽度缩小,占父项的四分之一,父项本身是50%*/
+    float: left;
+    margin-right:30px;
+}
+.chilli-img{
+    width:25%;/*根据其父项的宽度缩小*/
+    float: right;
+    margin-left: 30px;
+    
+
+}
+
+.profile{
+    width:50%;
+    margin: 100px auto 80px auto;
+    
+}
+.portrait-img{
+    width: 25%;
+    
+}
